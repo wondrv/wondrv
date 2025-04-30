@@ -2,10 +2,10 @@
 
 <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 <div align="rigt">
-<img src="https://komarev.com/ghpvc/?username=nielpz&&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=wondrv&&style=flat-square" />
 </div>  
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nielpz)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wondrv)
 
 # 👋 Hi, I'm Niel!
 
@@ -32,8 +32,8 @@ Welcome to my GitHub profile! I love building elegant solutions to challenging p
 ---
 
 ## 📈 GitHub Stats & Streaks  
-![Niel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nielpz&show_icons=true&theme=radical)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=nielpz&theme=radical)](https://git.io/streak-stats)
+![Niel's GitHub stats](https://github-readme-stats.vercel.app/api?username=wondrv&show_icons=true&theme=radical)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=wondrv&theme=radical)](https://git.io/streak-stats)
 
 ---
 
@@ -42,10 +42,10 @@ Check out some of my favorite projects:
 
 ### Hover to Preview  
 <div align="center">
-    <a href="https://github.com/nielpz/project1">
+    <a href="https://github.com/wondrv/project1">
         <img src="https://via.placeholder.com/150" alt="Project 1" style="border-radius: 5px; margin: 10px; transition: transform 0.3s;">
     </a>
-    <a href="https://github.com/nielpz/project2">
+    <a href="https://github.com/wondrv/project2">
         <img src="https://via.placeholder.com/150" alt="Project 2" style="border-radius: 5px; margin: 10px; transition: transform 0.3s;">
     </a>
 </div>
